@@ -49,5 +49,3 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "Building API"
-
-Take a screenshot and attach. 
